@@ -1,0 +1,15 @@
+{
+  "name": "shotoapex",
+  "version": "1.0.0",
+  "description": "apex game stat tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "Mattchiato",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.3"
+  }
+}
